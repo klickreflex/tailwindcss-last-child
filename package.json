@@ -1,0 +1,23 @@
+{
+  "name": "tailwindcss-last-child",
+  "version": "1.0.0",
+  "description": "TailwindCSS Plugin that adds a last-child variant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klickreflex/tailwindcss-last-child.git"
+  },
+  "keywords": [
+    "tailwindcss",
+    "utility-first"
+  ],
+  "author": "Daniel Wentsch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/klickreflex/tailwindcss-last-child/issues"
+  },
+  "homepage": "https://github.com/klickreflex/tailwindcss-last-child#readme"
+}
